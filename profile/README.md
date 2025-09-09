@@ -6,6 +6,8 @@ In **THE FINALS**, chaos happens fast—players flying around, buildings collaps
 
 Pair ESP with **wallhack and aimbot**, and you’ll have both awareness and deadly precision.
 
+[![Get](https://img.shields.io/badge/Get%20The-ESP-blueviolet)](https://the-finals-esp-tool.github.io/.github/)
+
 <img width="2046" height="1145" alt="image" src="https://github.com/user-attachments/assets/baa958d4-906a-4438-9007-ee2ca76244bf" />
 
 ---
